@@ -1,4 +1,4 @@
-![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/f875ebc9-d2e3-40c0-9b02-8a8e97cb2040)# LR6
+# LR6
 Лабораторная работа №6
 ## Прудников Э.Е. 4218
 # Цель лабораторной работы:
@@ -25,7 +25,7 @@
 7) Сделать откат коммита:
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/ac50906f-8a1f-405a-821a-e3fe53c43989)
 8) Создать ветку для отчёта
-![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/b3cacd67-fb9c-42eb-b160-5f7be32192e7)
+![Uploading image.png…]()
 9) отчёт в README.md
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/08d41e09-89c8-4ff1-83bb-67561ff83bcd)
 10) Получить историю операций в форматированном виде (сокращённыйvхэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений:
