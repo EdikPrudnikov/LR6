@@ -25,12 +25,12 @@
 7) Сделать откат коммита:
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/ac50906f-8a1f-405a-821a-e3fe53c43989)
 8) Создать ветку для отчёта
-![Uploading image.png…]()
+![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/32caa58f-2f28-4741-87f7-914057413d5f)
 9) отчёт в README.md
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/08d41e09-89c8-4ff1-83bb-67561ff83bcd)
 10) Получить историю операций в форматированном виде (сокращённыйvхэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений:
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/ae256fe9-2725-46e5-8fb3-2dc7e51ce4e8)
 11) Отправить локальные изменения в сетевое хранилище GitHub:
-![Uploading image.png…]()
+![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/0656301f-aaca-4bce-a15c-edb3a519b4ed)
 # Вывод:
 В ходе лабораторной работы был изучен GitHub, Git и их структурное программирование, строение, редактирование файлов внутри репозитория
