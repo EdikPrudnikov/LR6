@@ -29,7 +29,7 @@
 9) отчёт в README.md
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/08d41e09-89c8-4ff1-83bb-67561ff83bcd)
 10) Получить историю операций в форматированном виде (сокращённыйvхэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений:
-![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/ae256fe9-2725-46e5-8fb3-2dc7e51ce4e8)
+![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/60d903e3-6605-4523-8a46-d3d00c5611c7)
 11) Отправить локальные изменения в сетевое хранилище GitHub:
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/0656301f-aaca-4bce-a15c-edb3a519b4ed)
 # Вывод:
