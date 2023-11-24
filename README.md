@@ -25,7 +25,7 @@
 7) Сделать откат коммита:
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/ac50906f-8a1f-405a-821a-e3fe53c43989)
 8) Создать ветку для отчёта
-![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/32caa58f-2f28-4741-87f7-914057413d5f)
+![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/56fb9baa-5541-4413-885b-a6d35e463b1e)
 9) отчёт в README.md
 ![image](https://github.com/EdikPrudnikov/LR6/assets/113598515/08d41e09-89c8-4ff1-83bb-67561ff83bcd)
 10) Получить историю операций в форматированном виде (сокращённыйvхэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений:
